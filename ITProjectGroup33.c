@@ -1,3 +1,12 @@
+/*
+This is the final Code Submission by group 33
+Contributors:
+Vaishnav Mukesh (202051196)
+Valiveti Swamy Naga Sai Nivas (202051197)
+Vansh Goel (202051198)
+Vichare Omkar Madhukar (202051199)
+Vijay Karanjkar (202051200)
+*/
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
